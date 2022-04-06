@@ -1,4 +1,4 @@
-# Jekyll Resume Theme
+# Jekyll Resume Theme (ori)
 
 Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
