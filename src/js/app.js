@@ -6,20 +6,20 @@ document.addEventListener("DOMContentLoaded", function () {
   particlesJS('particles-js', {
     "particles": {
       "number": {
-        "value": 160,
+        "value": 222,
         "density": {
           "enable": true,
-          "value_area": 500
+          "value_area": 444
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#FFAA99"
       },
       "shape": {
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#110933"
         },
         "polygon": {
           "nb_sides": 5
@@ -93,15 +93,15 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         },
         "bubble": {
-          "distance": 250,
+          "distance": 222,
           "size": 0,
-          "duration": 2,
+          "duration": 3,
           "opacity": 0,
-          "speed": 3
+          "speed": 2
         },
         "repulse": {
           "distance": 400,
-          "duration": 0.4
+          "duration": 0.5
         },
         "push": {
           "particles_nb": 4
